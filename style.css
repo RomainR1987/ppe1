@@ -1,0 +1,9 @@
+@charset "UTF-8";
+legend{
+    text-align: center;
+}
+body{
+    font-family: 'helvetica';
+    color: #aaa;
+    font-variant: small-caps;
+}
